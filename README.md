@@ -49,7 +49,5 @@ Building this project helped me strengthen my understanding of:
 - Serving mock data through a simple **Node/Express API**
 - Creating a responsive and visually appealing layout
 
----
 
-### 🧭 Project Structure
 
