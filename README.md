@@ -49,5 +49,17 @@ Building this project helped me strengthen my understanding of:
 - Serving mock data through a simple **Node/Express API**
 - Creating a responsive and visually appealing layout
 
+  ## 🖼️ Screenshots
+
+### Home Page
+![Home Page](./images/login.png)
+
+### Vans List
+![Vans List](./images/vans1.png)
+![Vans List](./images/vans2.png)
+
+### Van About Page
+![Van About](./images/about.png)
+
 
 
